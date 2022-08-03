@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Andrey 👋🎮🖥️
+
+[![MartAndrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartAndrey)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MartAndrey/MartAndrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
