@@ -1,18 +1,17 @@
 # Hi, I'm Andrey 👋🎮🖥️
 
-I'm Game developer in Unity and a self taught developer from Colombia, I'm 19 years old.
+I'm Game developer in Unity and a self taught developer from Colombia, I'm 19 years old, I have created several projects using C#, and also implemented technologies such as .Net Core, Windows Presentation Foundation (WPF)
 
 <img align="right" alt="GIF" src="https://www.lambdatest.com/resources/images/news24.gif" width="500" height="320" />
 
-### 🧐 More About Me:
+## 🧐 More About Me:
 When I'm not developing and programming🧑‍💻, you can find me watching Netflix🎞️, listening to music🎵, or playing soccer⚽ Memes are something that is greatly appreciated 😂.
 
-
-### 📚 Education 🔝
+## 📚 Education 🔝
 ![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)
 
 
-### 👨‍💻  Languages and Tools  
+## 👨‍💻  Languages and Tools  
 <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -25,8 +24,14 @@ When I'm not developing and programming🧑‍💻, you can find me watching Net
 ![Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## 🚀My projects
+This are some of my projects using the technologies previously mentioned.
+- [Ruby's Adventure](https://martandrey.itch.io/rubys-adventure)
+- [Bolchie Run](https://martandrey.itch.io/bolchie-run)
+- [Calculator](https://github.com/MartAndrey/Calculator-WPF)
+- [Core School](https://github.com/MartAndrey/Core_School)
 
-### 📱 Contact Me
+## 📱 Contact Me
 <a href="https://www.linkedin.com/in/MartAndrey" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/></a>
 <a href="https://instagram.com/martandreydev" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/></a>
 <a href="https://twitter.com/MartAndreydev" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/></a>
@@ -36,6 +41,6 @@ When I'm not developing and programming🧑‍💻, you can find me watching Net
 <!---![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)-->
 
 
-### 📊 Github Stats
-<a href="https://github-readme-stats.vercel.app/api?username=MartAndrey&show_icons=true&theme=dark"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MartAndrey&show_icons=true&theme=dark" /></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MartAndrey&layout=compact&show_icons=true&theme=dark"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartAndrey&layout=compact&show_icons=true&theme=dark" /></a>
+## 📊 Github Stats
+|[![MartAndrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartAndrey&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=MartAndrey&show_icons=true&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartAndrey&layout=compact&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=MartAndrey&layout=compact&show_icons=true&theme=dark)|
+|---|---|
