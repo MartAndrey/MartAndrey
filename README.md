@@ -38,4 +38,4 @@ When I'm not developing and programming🧑‍💻, you can find me watching Net
 
 ### 📊 Github Stats
 <a href="https://github-readme-stats.vercel.app/api?username=MartAndrey&show_icons=true&theme=dark"><img align="left" src="https://github-readme-stats.vercel.app/api?username=MartAndrey&show_icons=true&theme=dark" /></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MartAndrey&layout=compact&show_icons=true&theme=dark"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartAndrey&layout=compact&show_icons=true&theme=dark" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MartAndrey&layout=compact&show_icons=true&theme=dark"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartAndrey&layout=compact&show_icons=true&theme=dark" /></a>
