@@ -1,6 +1,6 @@
 # Hi, I'm Andrey 👋🎮🖥️
 
-I'm Game developer in Unity and a self-taught developer from Colombia, I have created several projects using C#, and also implemented technologies such as .Net Core, Windows Presentation Foundation (WPF)
+I am a Unity game developer and self-taught game developer from Colombia, I have created several projects using C# and have also implemented technologies such as .Net Core, Windows Presentation Foundation (WPF), HTML, CSS and JavaScript
 
 <img align="right" alt="GIF" src="https://www.lambdatest.com/resources/images/news24.gif" width="500" height="320" />
 
