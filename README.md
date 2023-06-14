@@ -30,6 +30,8 @@ When I'm not developing and programming🧑‍💻, you can find me watching Net
 
 ## 🚀My projects
 These are some of my projects using the technologies mentioned above.
+- [Mystic Realm Duels](https://martandrey.github.io/Mystic_Realm_Duels) 
+  - [Repository Code](https://github.com/MartAndrey/Mystic_Realm_Duels)
 - [Ace Master of Sky](https://martandrey.itch.io/ace-master-of-sky) 
   - [Repository Code](https://github.com/MartAndrey/Ace_Master_of_Sky)
 - [Ruby's Adventure](https://martandrey.itch.io/rubys-adventure) 
