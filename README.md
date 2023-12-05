@@ -33,16 +33,14 @@ When I'm not developing and programming🧑‍💻, you can find me watching Net
 
 ## 🚀My projects
 These are some of my projects using the technologies mentioned above.
+- [SweetBat Match](https://play.google.com/store/apps/details?id=com.martandrey.sweetbatmatch)
+  - [Repository Code](https://github.com/MartAndrey/SweetBat_Match)
 - [Mystic Realm Duels](https://martandrey.github.io/Mystic_Realm_Duels) 
   - [Repository Code](https://github.com/MartAndrey/Mystic_Realm_Duels)
 - [Ace Master of Sky](https://martandrey.itch.io/ace-master-of-sky) 
   - [Repository Code](https://github.com/MartAndrey/Ace_Master_of_Sky)
 - [Ruby's Adventure](https://martandrey.itch.io/rubys-adventure) 
   - [Repository Code](https://github.com/MartAndrey/Rubys_Adventure)
-- [Bolchie Run](https://martandrey.itch.io/bolchie-run)
-  - [Repository Code](https://github.com/MartAndrey/Bolchie_Run)
-- [Calculator](https://github.com/MartAndrey/Calculator-WPF)
-- [Core School](https://github.com/MartAndrey/Core_School)
 
 ## 📱 Contact Me
 <a href="https://www.linkedin.com/in/MartAndrey" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/></a>
